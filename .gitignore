@@ -3,8 +3,19 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-#mac
-.DS_Store
+Untitled.ipynb
+Untitled1.ipynb
+Untitled2.ipynb
+Untitled3.ipynb
+Untitled4.ipynb
+Untitled5.ipynb
+
+
+.*
+.**/
+
+**/.DS_Store
+
 
 # C extensions
 *.so
